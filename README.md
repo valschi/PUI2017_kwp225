@@ -11,8 +11,10 @@ Then, I set up an alias pui2017 using the cd command and the $PUI2017 environmen
 ```
 alias pui2017=“cd $PUI2017”
 ```
+These two steps cut out much of the repetitive typing that would be necessary to enter our working directory.
+
 Screenshots showing the commands are below:
 ![Alt text](screenshots/bash_profile.png)
 ![Alt text](screenshots/commands.png)
 
-A new GitHub repo was then created and linked with the local repo on my computer.
+A new GitHub repo was then created and linked with the local repo on my computer, and the two will be kept in sync.
