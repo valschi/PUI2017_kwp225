@@ -1,0 +1,3 @@
+I worked on this assignment closely with Matt Sauter and Valeria Schiavon, and also discussed questions/troubleshooting throughout with several other CUSP students. In particular, I wasn’t able to get my code working for the second degree polynomial fit, so I referenced Valeria’s code for that section.
+
+For this HW, we had to access, combine, and munge data from multiple sources to try and find a relationship between the number of units in a building and its energy consumption, and we used various models to find and try and determine the relationship between the two factors.
