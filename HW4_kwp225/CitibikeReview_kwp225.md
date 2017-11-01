@@ -9,3 +9,7 @@ Null: The average number of weekly rides in July is less than or equal to the av
 Alternative: The average number of weekly rides in July is greater to the average number of weekly rides in January.
 
 For that formulation, I would suggest using a z-test to compare the means - the data is non-parametric and unpaired.
+
+# FBB data is neither parametric nor non-parametric, tests are. Data may or may not follow a distribution leading to a parametric or a non parametric test being appropriate, respectively. The z-test is parametric, cause it assumes a normal distribution.
+
+# FBB very good, this should help your classmate.
