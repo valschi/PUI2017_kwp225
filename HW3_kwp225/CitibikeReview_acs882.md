@@ -3,3 +3,5 @@ While technically formulated correctly, using 'subscore m' in the null hypothesi
 The data used are accurate and relevant to the question asked.
 
 Because the question is with regards to gender, a catagorical variable, a chi-squared test would be the most appropriate in this instance. 
+
+# FBB ok. I also asked to make suggestions to improve the analysis
